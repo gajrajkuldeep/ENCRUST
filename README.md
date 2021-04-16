@@ -1,4 +1,6 @@
 
+ENCRUST.mlx is live MATLAB file. It can be executated in the MATLAB
+
 In most of existing Internet of Things (IoT) applications, data compression, data encryption and error/erasure correction are implemented separately. 
 To achieve reliable communication, in particular, in harsh wireless environment with strong interference, error/erasure correction codes with higher correction capability or Automatic repeat request (ARQ) scheme are desirable but at the cost of increasing complexity and energy consumption. 
 Due to resource-constrained IoT device, it is often challenging to implement all of them.  
