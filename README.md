@@ -11,3 +11,5 @@ The results demonstrate that ENCRUST achieves decent compression, information se
 
 
 This file prersents the simple application of compression and error recovery using compressive sensing.
+
+Details are here:https://ieeexplore.ieee.org/abstract/document/9373354
